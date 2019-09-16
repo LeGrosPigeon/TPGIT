@@ -1,3 +1,4 @@
 #Fichiers a ignorer
 
 a.txt
+*.b
